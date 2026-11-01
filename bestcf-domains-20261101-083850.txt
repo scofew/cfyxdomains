@@ -1,3 +1,5 @@
+# BestCF-在线优选 · 仅支持 Cloudflare CDN 上可正常访问的网站域名，无法优选第三方「CF优选域名」
+# https://bestcf.fxxk.dedyn.io/
 www.blibli.com:443#SG 电信优选[www.blibli.com 60ms]
 markmonitor.com:443#SG 电信优选[markmonitor.com 60ms]
 cf-cname.xingpingcn.top:443#SG 电信优选[cf-cname.xingpingcn.top 61ms]
